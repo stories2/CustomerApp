@@ -13,12 +13,14 @@ What things you need to install the software and how to install them
 
 #### Design
 
+- Slack
 - Sketch
 - Photoshop
 - Zeplin
 
 ### Developer
 
+- Slack
 - Android Studio
 - Zeplin
 
