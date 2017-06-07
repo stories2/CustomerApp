@@ -1,6 +1,7 @@
 # Project Title
 Customer App
-One Paragraph of project description goes here
+
+- A solution that allows customers to register for a store and receive mileage benefits at the store.
 
 ## Getting Started
 
@@ -10,27 +11,30 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+#### Design
+
+- Sketch
+- Photoshop
+- Zeplin
+
+### Developer
+
+- Android Studio
+- Zeplin
 
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
+#### Clone this project
 
 ```
-Give the example
-```
-
-And repeat
+git clone https://github.com/BreadProject/CustomerApp.git
 
 ```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo
+- Open with android studio
+
 
 ## Running the tests
 
